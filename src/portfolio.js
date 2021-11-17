@@ -224,7 +224,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://"
+          url: "https://ibrahimanis.github.io/path-finder-visualizer"
         }
       ]
     }
