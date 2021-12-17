@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "427a4ef72dc477aa78c5a391fbf0c328",
+    "revision": "05299018fb9493743ca4e61f412690c5",
     "url": "/ibrahim-anis-devfolio/index.html"
   },
   {
@@ -12,16 +12,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ibrahim-anis-devfolio/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "577e515d90e5526e914f",
-    "url": "/ibrahim-anis-devfolio/static/css/main.6f6be099.chunk.css"
+    "revision": "01288151cd66108943f5",
+    "url": "/ibrahim-anis-devfolio/static/css/main.387ca443.chunk.css"
   },
   {
-    "revision": "ac69f127b3b7b4a0ddc4",
-    "url": "/ibrahim-anis-devfolio/static/js/2.6ed01e94.chunk.js"
+    "revision": "865d6992fd90af836084",
+    "url": "/ibrahim-anis-devfolio/static/js/2.6bd5b3b2.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/ibrahim-anis-devfolio/static/js/2.6ed01e94.chunk.js.LICENSE.txt"
+    "url": "/ibrahim-anis-devfolio/static/js/2.6bd5b3b2.chunk.js.LICENSE.txt"
   },
   {
     "revision": "996b6eb0254d020b47a1",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ibrahim-anis-devfolio/static/js/4.b61fb702.chunk.js"
   },
   {
-    "revision": "577e515d90e5526e914f",
-    "url": "/ibrahim-anis-devfolio/static/js/main.f0b8e812.chunk.js"
+    "revision": "01288151cd66108943f5",
+    "url": "/ibrahim-anis-devfolio/static/js/main.de5b1c5d.chunk.js"
   },
   {
     "revision": "7f88bc063d9b0dd5f3bc",
@@ -76,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ibrahim-anis-devfolio/static/media/hackerRank.d38a06be.png"
   },
   {
-    "revision": "52be31441c8cf8a8a16bd7a228d428bf",
-    "url": "/ibrahim-anis-devfolio/static/media/manOnTable.52be3144.svg"
+    "revision": "0a5170e77d98952d4b598347e64826e3",
+    "url": "/ibrahim-anis-devfolio/static/media/ibrahim-image.0a5170e7.jpeg"
   },
   {
     "revision": "e4e7561d818860f61de971ec2e59490a",
