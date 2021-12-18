@@ -17,7 +17,7 @@ const greeting = {
     "A passionate Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1zXCUYD4BjDgpOC5DH2YFnx-UCUCnRVbh/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1AxQ_VNtCMn2rXIZHfDsnVlv0vSQrEN3V/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -212,7 +212,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "View Demo",
-          url: "https://youtu.be/SwQtIMmi6o8"
+          url: "https://ibrahimanis.github.io/an-interactive-data-modeler/"
         }
         //  you can add extra buttons here.
       ]
