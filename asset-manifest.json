@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ibrahim-anis-devfolio/static/css/main.387ca443.chunk.css",
-    "main.js": "/ibrahim-anis-devfolio/static/js/main.334d6c61.chunk.js",
-    "main.js.map": "/ibrahim-anis-devfolio/static/js/main.334d6c61.chunk.js.map",
+    "main.css": "/ibrahim-anis-devfolio/static/css/main.864aad26.chunk.css",
+    "main.js": "/ibrahim-anis-devfolio/static/js/main.2bf41dfb.chunk.js",
+    "main.js.map": "/ibrahim-anis-devfolio/static/js/main.2bf41dfb.chunk.js.map",
     "runtime-main.js": "/ibrahim-anis-devfolio/static/js/runtime-main.bc8a6a6e.js",
     "runtime-main.js.map": "/ibrahim-anis-devfolio/static/js/runtime-main.bc8a6a6e.js.map",
     "static/js/2.6bd5b3b2.chunk.js": "/ibrahim-anis-devfolio/static/js/2.6bd5b3b2.chunk.js",
@@ -14,11 +14,11 @@
     "static/js/4.b61fb702.chunk.js": "/ibrahim-anis-devfolio/static/js/4.b61fb702.chunk.js",
     "static/js/4.b61fb702.chunk.js.map": "/ibrahim-anis-devfolio/static/js/4.b61fb702.chunk.js.map",
     "index.html": "/ibrahim-anis-devfolio/index.html",
-    "precache-manifest.1ab9cd934cbdf2ef5615b2b60a85f014.js": "/ibrahim-anis-devfolio/precache-manifest.1ab9cd934cbdf2ef5615b2b60a85f014.js",
+    "precache-manifest.ef9cb3e1c47907833a7273adea1ab3a4.js": "/ibrahim-anis-devfolio/precache-manifest.ef9cb3e1c47907833a7273adea1ab3a4.js",
     "service-worker.js": "/ibrahim-anis-devfolio/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/ibrahim-anis-devfolio/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "/ibrahim-anis-devfolio/static/css/4.e91a4b36.chunk.css.map",
-    "static/css/main.387ca443.chunk.css.map": "/ibrahim-anis-devfolio/static/css/main.387ca443.chunk.css.map",
+    "static/css/main.864aad26.chunk.css.map": "/ibrahim-anis-devfolio/static/css/main.864aad26.chunk.css.map",
     "static/js/2.6bd5b3b2.chunk.js.LICENSE.txt": "/ibrahim-anis-devfolio/static/js/2.6bd5b3b2.chunk.js.LICENSE.txt",
     "static/media/index.css": "/ibrahim-anis-devfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/codeJam.png": "/ibrahim-anis-devfolio/static/media/codeJam.e1c33342.png",
@@ -28,18 +28,17 @@
     "static/media/developerActivity.svg": "/ibrahim-anis-devfolio/static/media/developerActivity.59389695.svg",
     "static/media/gps_logo.png": "/ibrahim-anis-devfolio/static/media/gps_logo.98dc9dd9.png",
     "static/media/hackerRank.png": "/ibrahim-anis-devfolio/static/media/hackerRank.d38a06be.png",
-    "static/media/ibrahim-image.jpeg": "/ibrahim-anis-devfolio/static/media/ibrahim-image.0a5170e7.jpeg",
+    "static/media/ibrahim-image.jpeg": "/ibrahim-anis-devfolio/static/media/ibrahim-image.b202fe14.jpeg",
     "static/media/path-finder.png": "/ibrahim-anis-devfolio/static/media/path-finder.e4e7561d.png",
     "static/media/skill.svg": "/ibrahim-anis-devfolio/static/media/skill.34409398.svg",
     "static/media/swami_logo.jpg": "/ibrahim-anis-devfolio/static/media/swami_logo.cf6d3dbf.jpg",
     "static/media/TalkCard.scss": "/ibrahim-anis-devfolio/static/media/talksCardBack.13780cdd.svg",
-    "static/media/tm_logo.png": "/ibrahim-anis-devfolio/static/media/tm_logo.96766cfb.png",
-    "static/media/uec_logo.jpg": "/ibrahim-anis-devfolio/static/media/uec_logo.d4871769.jpg"
+    "static/media/uec_logo.jpg": "/ibrahim-anis-devfolio/static/media/uec_logo.5cfade80.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.bc8a6a6e.js",
     "static/js/2.6bd5b3b2.chunk.js",
-    "static/css/main.387ca443.chunk.css",
-    "static/js/main.334d6c61.chunk.js"
+    "static/css/main.864aad26.chunk.css",
+    "static/js/main.2bf41dfb.chunk.js"
   ]
 }

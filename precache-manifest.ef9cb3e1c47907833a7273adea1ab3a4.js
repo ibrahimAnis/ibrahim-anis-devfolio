@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7b22413b6111c291c50793606b83da79",
+    "revision": "9d96816cc4c44eddeb07b0e6710e3ed1",
     "url": "/ibrahim-anis-devfolio/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ibrahim-anis-devfolio/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "05b6eab9ba6a4fc72a81",
-    "url": "/ibrahim-anis-devfolio/static/css/main.387ca443.chunk.css"
+    "revision": "67f182f3c95e3fe6786b",
+    "url": "/ibrahim-anis-devfolio/static/css/main.864aad26.chunk.css"
   },
   {
     "revision": "865d6992fd90af836084",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ibrahim-anis-devfolio/static/js/4.b61fb702.chunk.js"
   },
   {
-    "revision": "05b6eab9ba6a4fc72a81",
-    "url": "/ibrahim-anis-devfolio/static/js/main.334d6c61.chunk.js"
+    "revision": "67f182f3c95e3fe6786b",
+    "url": "/ibrahim-anis-devfolio/static/js/main.2bf41dfb.chunk.js"
   },
   {
     "revision": "7f88bc063d9b0dd5f3bc",
@@ -76,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ibrahim-anis-devfolio/static/media/hackerRank.d38a06be.png"
   },
   {
-    "revision": "0a5170e77d98952d4b598347e64826e3",
-    "url": "/ibrahim-anis-devfolio/static/media/ibrahim-image.0a5170e7.jpeg"
+    "revision": "b202fe148079d142e1f1be8c12eef502",
+    "url": "/ibrahim-anis-devfolio/static/media/ibrahim-image.b202fe14.jpeg"
   },
   {
     "revision": "e4e7561d818860f61de971ec2e59490a",
@@ -96,11 +96,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ibrahim-anis-devfolio/static/media/talksCardBack.13780cdd.svg"
   },
   {
-    "revision": "96766cfba721c21d841abd7caea7eaca",
-    "url": "/ibrahim-anis-devfolio/static/media/tm_logo.96766cfb.png"
-  },
-  {
-    "revision": "d48717692604cdfe0b38df9ab64476f9",
-    "url": "/ibrahim-anis-devfolio/static/media/uec_logo.d4871769.jpg"
+    "revision": "5cfade801e1ce93f2dc6aff2c118b9d2",
+    "url": "/ibrahim-anis-devfolio/static/media/uec_logo.5cfade80.jpg"
   }
 ]);
