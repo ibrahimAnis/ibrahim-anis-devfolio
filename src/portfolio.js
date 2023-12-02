@@ -173,7 +173,7 @@ const workExperiences = {
     {
       role: "Software Engineer",
       company: "Furlenco",
-      companylogo: require("./assets/images/furlenco_logo.png"),
+      companylogo: require("./assets/images/furlenco_logo.jpg"),
       date: "Jun 2022 – Present",
       desc: "Working on design and development of a rental furniture platform app named Furlenco, catering to approximately 80,000 active rental customers currently.",
       // descBullets: [
