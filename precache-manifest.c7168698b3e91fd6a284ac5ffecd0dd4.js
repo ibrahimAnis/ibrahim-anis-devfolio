@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9d96816cc4c44eddeb07b0e6710e3ed1",
+    "revision": "5a4ec1acfc288d2891b4a74b7a684aa9",
     "url": "/ibrahim-anis-devfolio/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ibrahim-anis-devfolio/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "67f182f3c95e3fe6786b",
+    "revision": "d46e31ace5f1df0925c6",
     "url": "/ibrahim-anis-devfolio/static/css/main.864aad26.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ibrahim-anis-devfolio/static/js/4.b61fb702.chunk.js"
   },
   {
-    "revision": "67f182f3c95e3fe6786b",
-    "url": "/ibrahim-anis-devfolio/static/js/main.2bf41dfb.chunk.js"
+    "revision": "d46e31ace5f1df0925c6",
+    "url": "/ibrahim-anis-devfolio/static/js/main.ea998a7f.chunk.js"
   },
   {
     "revision": "7f88bc063d9b0dd5f3bc",
