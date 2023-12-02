@@ -14,10 +14,10 @@ const greeting = {
   username: "Ibrahim Anis",
   title: "Hi all, I'm Ibrahim",
   subTitle: emoji(
-    "A passionate Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "A passionate Software Developer 🚀 having an experience of building scalable backend app for Web and Mobile applications with Java / JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1AxQ_VNtCMn2rXIZHfDsnVlv0vSQrEN3V/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1v_bmRL31LhRNjJ7RrzqNctVjeNWZpGQd/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -50,8 +50,20 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
+      skillName: "Java",
+      fontAwesomeClassname: "fab fa-java"
+    },
+    {
+      skillName: "C",
+      fontAwesomeClassname: "fa-solid fa-c"
+    },
+    {
       skillName: "nodejs",
       fontAwesomeClassname: "fab fa-node"
+    },
+    {
+      skillName: "Github",
+      fontAwesomeClassname: "fab fa-github"
     },
     {
       skillName: "JavaScript",
@@ -62,10 +74,6 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-react"
     },
     {
-      skillName: "java",
-      fontAwesomeClassname: "fab fa-java"
-    },
-    {
       skillName: "sql-database",
       fontAwesomeClassname: "fas fa-database"
     },
@@ -74,8 +82,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-aws"
     },
     {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
+      skillName: "Linux",
+      fontAwesomeClassname: "fab fa-linux"
     },
     {
       skillName: "python",
@@ -94,8 +102,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
+      skillName: "Jenkins",
+      fontAwesomeClassname: "fab fa-jenkins"
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -143,16 +151,15 @@ const techStack = {
   experience: [
     {
       Stack: "Backend Development", //Insert stack or technology you have experience in
-      progressPercentage: "80%" //Insert relative proficiency in percentage
+      progressPercentage: "90%" //Insert relative proficiency in percentage
     },
     {
       Stack: "Frontend Development",
-      progressPercentage: "70%"
+      progressPercentage: "40%"
     },
     {
       Stack: "Mobile Development",
-      progressPercentage: "80%"
-
+      progressPercentage: "40%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -165,10 +172,22 @@ const workExperiences = {
   experience: [
     {
       role: "Software Engineer",
+      company: "Furlenco",
+      companylogo: require("./assets/images/furlenco_logo.png"),
+      date: "Jun 2022 – Present",
+      desc: "Working on design and development of a rental furniture platform app named Furlenco, catering to approximately 80,000 active rental customers currently.",
+      // descBullets: [
+      //   "Designing the RESTful APIs to add new features in the existing application",
+      //   "Working with Business Analyst in integrating the new insurance products into the system.",
+      //   "Debugging and fixing the issues in the existing application to increase the productivity of the app"
+      // ]
+    },
+    {
+      role: "Software Engineer",
       company: "Accolite Digital",
       companylogo: require("./assets/images/accolite_logo.jpeg"),
-      date: "Feb 2021 – Present",
-      desc: "Working with Prudential Team in designing and developing scalable backend system for finance based application.",
+      date: "Feb 2021 – Jun 2022",
+      desc: "Worked with Prudential Team in designing and developing scalable backend system for finance based application.",
       // descBullets: [
       //   "Designing the RESTful APIs to add new features in the existing application",
       //   "Working with Business Analyst in integrating the new insurance products into the system.",
@@ -181,14 +200,7 @@ const workExperiences = {
       companylogo: require("./assets/images/tech_logo.png"),
       date: "Sep 2020 - Dec 2020",
      desc: "Worked on the revolutionary AI-based access control product faceopen to recognize the face of a person and grant access to the valuable asset."
-    },
-    {
-      role: "Software Engineer Intern",
-      company: "Thinking Machines",
-      companylogo: require("./assets/images/tm_logo.png"),
-      date: "Jan 2019 – Aug 2019",
-      desc: "Worked as an intern at Thinking Machines and Designed a multi-threaded library using Java technology that will help the programmers to get rid of writing socket programming code while creating a client-server application"    }
-  ]
+    }]
 };
 
 /* Your Open Source Section to View Your Github Pinned Projects
@@ -318,7 +330,7 @@ const talkSection = {
       event_url: "https://www.facebook.com/events/2339906106275053/"
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Podcast Section
